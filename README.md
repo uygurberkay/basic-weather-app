@@ -1,5 +1,9 @@
 # web-server
 This line of codes cointains weatherstack API and mapbox API which takes city name and show us the weather of that city
+To run this project:
+<strong>
+1. npm install
+2. npm run dev <strong>
 
 ![image](https://user-images.githubusercontent.com/50241715/219739264-63b778fc-12b0-490f-a9f8-e9b8bc82975e.png)
 
